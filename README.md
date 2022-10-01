@@ -1,4 +1,4 @@
-# microservicojava
+# Micro Serviço de e-mail usando JavaMail
 <h2>Um MicroServiço com E-mail, é possível enviar com corpo HTML e com vários anexos.</h2>
 
 <h3>Foi usando o MailHog um SMTP de saidas de e-mails para testar os envios do e-mail. o programa faz um building entre as portas para que isso seja possível
